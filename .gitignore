@@ -1,0 +1,10 @@
+.idea
+pybo.db
+*.pyc
+__pycache__
+migrations
+
+/Lib
+/__pycache__
+/Include
+*.cfg
